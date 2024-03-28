@@ -71,3 +71,83 @@ img{
     margin-top:2rem;
     font-size: 1.5rem;
 }
+@media (max-width:1030px){
+    h1{
+        height:4rem;
+        padding:1.5rem;
+        padding-top:2rem;
+        font-size:3rem;
+    }
+    .choices{
+        margin-top: 2.5rem;
+        margin-left:5rem;
+    }
+    #msg{
+        font-size: 1.9rem;
+    }
+}
+@media (max-width:790px){
+    h1{
+        height:4rem;
+        padding:1.5rem;
+        padding-top:2rem;
+        font-size:3rem;
+    }
+    .choices{
+        margin-top: 2.5rem;
+        margin-left:5rem;
+    }
+    #msg{
+        font-size: 1.9rem;
+    }
+}
+@media (max-width:430px){
+    h1{
+        height:4rem;
+        width:500px;
+        padding:2.2rem;
+        padding-top:2.5rem;
+        font-size:2rem;
+    }
+    .choices{
+        margin-left:13.3rem;
+    }
+    img{
+        height:8.5rem;
+        width:8.5rem;
+    }
+    .scores{
+        margin-left:9.5rem;
+    
+    }
+    .msg-box{
+        margin-left:10rem;
+    }
+    .choice-msg{
+        margin-left:10rem;
+    }
+}
+@media (max-width:380px){
+    .choices{
+        margin-left:17rem;
+    }
+    .scores{
+        margin-left:10rem;
+    
+    }
+    .msg-box{
+        margin-left:10rem;
+    }
+    .choice-msg{
+        margin-left:10rem;
+        font-size: 1.5rem;
+    }
+}
+@media (max-width:330px){
+    .choices{
+        margin-left:17.5rem;
+    }
+    #msg{
+        font-size: 1.9rem;
+    }
+}
