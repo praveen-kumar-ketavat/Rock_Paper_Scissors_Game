@@ -11,9 +11,9 @@ h1{
     padding-top:30px;
     font-size:3rem;
 }
-#console{
+body{
     background-color: #1B4242;
-    height:742px;
+    height:100%;
     width:100%;
 }
 .choices{
