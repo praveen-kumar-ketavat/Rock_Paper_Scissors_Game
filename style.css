@@ -7,8 +7,8 @@ h1{
     background-color:#092635;
     color:white;
     height:4rem;
-    padding:15px;
-    padding-top:30px;
+    padding:2.5rem;
+    padding-top:2.5rem;
     font-size:3rem;
 }
 body{
@@ -20,20 +20,20 @@ body{
     display:flex;
     justify-content: center;
     align-items: center;
-    margin:5rem;
+    margin:4.5rem;
     gap:3rem;
 
 }
 .choice{
-    height:200px;
-    width:200px;
+    height:10rem;
+    width:15rem;
     border-radius: 50%;
    
 }
 img{
     border: 3px solid black;
-    height:200px;
-    width:200px;
+    height:13rem;
+    width:13rem;
     object-fit: cover;
     border-radius: 50%;
 }
