@@ -71,7 +71,7 @@ img{
     margin-top:2rem;
     font-size: 1.5rem;
 }
-@media (max-width:1030px){
+@media only screen and (max-width:1030px){
     h1{
         height:4rem;
         padding:1.5rem;
@@ -86,7 +86,7 @@ img{
         font-size: 1.9rem;
     }
 }
-@media (max-width:790px){
+@media only screen and (max-width:790px){
     h1{
         height:4rem;
         padding:1.5rem;
@@ -101,7 +101,7 @@ img{
         font-size: 1.9rem;
     }
 }
-@media (max-width:430px){
+@media only screen and (max-width:430px){
     h1{
         height:4rem;
         width:500px;
@@ -127,7 +127,7 @@ img{
         margin-left:10rem;
     }
 }
-@media (max-width:380px){
+@media only screen and (max-width:380px){
     .choices{
         margin-left:17rem;
     }
@@ -142,12 +142,15 @@ img{
         margin-left:10rem;
         font-size: 1.5rem;
     }
+    #msg{
+        font-size: 1.3rem;
+    }
 }
-@media (max-width:330px){
+@media only screen and (max-width:330px){
     .choices{
         margin-left:17.5rem;
     }
     #msg{
-        font-size: 1.9rem;
+        font-size: 1.1rem;
     }
 }
